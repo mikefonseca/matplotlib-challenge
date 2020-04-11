@@ -1,0 +1,7 @@
+Three observable trends based on the data:
+
+1. Only Capomulin was able to reduce tumors in a 45 day time period by 19%, while the other drugs (Infubinol, Ketapril) were all close to placebo, or worse, in efficacy.  This means that we would want to invest more heavily in Capomulin production and discontinue Infubinol and Ketapril.
+
+2. Spread was equally slower with Capomulin, also indicating this isthe best drug to use, along with Ramicane.
+
+3. Survival rates were best with Capomulin, indicating further investment in this drug.
